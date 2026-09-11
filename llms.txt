@@ -1,0 +1,28 @@
+# The Second Heavy-Ball Riddle
+
+> Research notes on convergence beyond the prescribed Lyapunov family.
+
+## Canonical URLs
+
+- Blog: https://trace231.github.io/heavyball-blog/
+- Full PDF: https://trace231.github.io/heavyball-blog/heavyball-notes.pdf
+
+## Summary
+
+These research notes study the second Heavy-Ball riddle for smooth strongly convex optimization. They exhibit an exact normalized parameter witness where the prescribed two-point linear/quadratic Lyapunov family fails, while no nonconstant finite cycle exists in any finite dimension. They also state a uniform global linear convergence result throughout an explicit parameter box around that witness.
+
+## Main results
+
+- The exact witness is (q*, a*, b*) = (1/100, 113/50, 3/5).
+- The prescribed two-point certificate family fails at the witness.
+- Every nonconstant finite Heavy-Ball cycle is excluded at the witness.
+- An explicit box of radius 10^-5 around the witness has a uniform global linear convergence guarantee.
+- The obstruction is informational: a common finite-valued energy using only a two-point record cannot encode all objective-dependent future behavior.
+
+## Scope and status
+
+This is a draft research-note placeholder. The complete proof, arithmetic checks, figures, and review records are in the PDF. The project does not currently provide a Lean kernel-checked formalization; publication review and priority assessment remain separate from the internal verification record.
+
+## Suggested retrieval terms
+
+Heavy-Ball method, smooth strongly convex optimization, Lyapunov certificate, finite cycles, interpolation constraints, global linear convergence, two-point record energy, Zames-Falb multiplier.

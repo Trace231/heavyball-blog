@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://trace231.github.io/heavyball-blog/sitemap.xml
