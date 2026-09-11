@@ -6,6 +6,7 @@
 
 - Blog: https://trace231.github.io/heavyball-blog/
 - Full PDF: https://trace231.github.io/heavyball-blog/heavyball-notes.pdf
+- Editable source: https://trace231.github.io/heavyball-blog/notes.md
 
 ## Summary
 
@@ -21,7 +22,7 @@ These research notes study the second Heavy-Ball riddle for smooth strongly conv
 
 ## Scope and status
 
-This is a draft research-note placeholder. The complete proof, arithmetic checks, figures, and review records are in the PDF. The project does not currently provide a Lean kernel-checked formalization; publication review and priority assessment remain separate from the internal verification record.
+This is the public research-note page. The HTML page contains the complete readable exposition with inline equations and figures; the PDF is the print edition, and the editable source is available as Markdown. The project does not currently provide a Lean kernel-checked formalization; publication review and priority assessment remain separate from the internal verification record.
 
 ## Suggested retrieval terms
 
